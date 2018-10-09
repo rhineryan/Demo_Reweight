@@ -1,5 +1,5 @@
 # Demo_Reweight
-If this work can help you, Please cite this by : https://zenodo.org/record/1451985 
+If this work can help you, please cite this by : https://zenodo.org/record/1451985 
 
 Please see more details in Colla_ML_20180630.pdf
 
