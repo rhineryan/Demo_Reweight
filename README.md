@@ -7,3 +7,4 @@ Main program is located in DoReweight_readindat.ipynb
 
 Data is located in data dir
 
+建议使用
