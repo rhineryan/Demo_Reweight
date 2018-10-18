@@ -6,7 +6,8 @@ README
 * [Main program](#Main-program)
 * [Data file](#Data-file)
 
-###Demo_Reweight
+### Demo_Reweight
+
 If this work can help you, please cite this by : https://zenodo.org/record/1451985 
 Data is located in data dir
 
