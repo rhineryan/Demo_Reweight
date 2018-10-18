@@ -1,8 +1,8 @@
 ## Title
 * [Cite link](#Demo_Reweight)
-* [Presentation](#Details description)
-* [Main program](#Main program)
-* [Data file](#Data file)
+* [Presentation](#Detailsdescription)
+* [Main program](#Mainprogram)
+* [Data file](#Datafile)
 
 ### Demo_Reweight
 If this work can help you, please cite this by : https://zenodo.org/record/1451985 
