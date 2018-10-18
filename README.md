@@ -4,7 +4,7 @@ README
 * [Cite link](#Demo_Reweight)
 * [Presentation](#Details-description)
 * [Main program](#Main-program)
-* [Data file](#Data-file)
+* [Data file](#data-file)
 * [横线](#横线)
 
 ### Demo_Reweight
