@@ -3,7 +3,7 @@ README
 
 ****
 	
-|Author|rhineryan|
+|Author|Xian Xiong|
 |---|---
 |E-mail|xxa2010@126.com
 ****
