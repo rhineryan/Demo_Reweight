@@ -1,4 +1,4 @@
-README
+Demo Reweighting
 ===========================
 
 ****
